@@ -6,4 +6,4 @@ Anggota
 - Syaripa Anum Nasution (201401018)
 - TM Rezha Taufiqurrahman (201401019)
 
-Asisten Laboratorium : Wahyu Fransesco Toldo 
+Asisten Laboratorium : Wahyu Francesco Toldo 
